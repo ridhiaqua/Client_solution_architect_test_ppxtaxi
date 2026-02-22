@@ -171,14 +171,8 @@ Evolve later to:
 
 We are deferring complexity — not blocking scale.
 
----
 
 # Documents
 
 [Go to docs](https://github.com/ridhiaqua/Clientsolutionarchitecttestppxtaxi/tree/e95704baab61028cc16c5681b9aeb9399a25f6f7/docs)
 
----
-
-**Document Version**: 1.0  
-**Last Updated**: February 2026  
-**Owner**: Ridhi
