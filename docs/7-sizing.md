@@ -126,8 +126,3 @@ Future:
 
 Complexity scales with business success — not before.
 
----
-
-**Document Version**: 1.0  
-**Last Updated**: February 2026  
-**Owner**: Ridhi
