@@ -4,7 +4,7 @@ Priority Pass × Taxi Integration
 
 ---
 
-# 1️⃣ Executive Summary
+# Executive Summary
 
 The Priority Pass × Taxi integration transforms fragmented airport services into a unified, intelligent, end-to-end journey experience.
 
@@ -33,7 +33,7 @@ The architecture balances:
 
 ---
 
-# 2️⃣ Vision
+# Vision
 
 Transform airport travel from disconnected steps into a proactive, intelligent journey:
 
@@ -47,7 +47,7 @@ To:
 
 ---
 
-# 3️⃣ Business & System Goals
+# Business & System Goals
 
 ## Primary Objectives
 
@@ -83,7 +83,7 @@ Optimal departure recommendations using:
 
 ---
 
-# 4️⃣ Architectural Principles
+# Architectural Principles
 
 ## 1. Business-First Engineering
 
@@ -139,7 +139,7 @@ This allows:
 
 ---
 
-# 5️⃣ High-Level Architecture
+# High-Level Architecture
 
 ## Logical Architecture (Target State)
 
@@ -180,7 +180,7 @@ Core orchestration engine:
 
 ---
 
-# 6️⃣ MVP Implementation Architecture
+# MVP Implementation Architecture
 
 For MVP delivery, we simplify:
 
@@ -212,7 +212,7 @@ Future introduction:
 
 ---
 
-# 7️⃣ Technology Stack & Rationale
+# Technology Stack & Rationale
 
 ## Frontend
 
@@ -276,7 +276,7 @@ MVP may deploy on simpler ECS (Elastic Container Service) to reduce ops burden.
 
 ---
 
-# 8️⃣ Integration Patterns
+# Integration Patterns
 
 ## 1. API Gateway Pattern
 
@@ -310,7 +310,7 @@ Prevents vendor lock-in and domain leakage.
 
 ---
 
-# 9️⃣ Non-Functional Targets
+# Non-Functional Targets
 
 ## MVP Targets
 
@@ -329,7 +329,7 @@ Prevents vendor lock-in and domain leakage.
 
 ---
 
-# 🔟 Reliability Strategy
+# Reliability Strategy
 
 - Idempotent booking endpoints
 - Correlation IDs across services
@@ -339,7 +339,7 @@ Prevents vendor lock-in and domain leakage.
 
 ---
 
-# 1️⃣1️⃣ Scalability Strategy
+# Scalability Strategy
 
 Phase 1:
 
@@ -364,7 +364,7 @@ Phase 4:
 
 ---
 
-# 1️⃣2️⃣ Risk Assessment
+# Risk Assessment
 
 ## Technical Risks
 
@@ -395,7 +395,7 @@ Mitigation:
 
 ---
 
-# 1️⃣3️⃣ Architecture Maturity Model
+# Architecture Maturity Model
 
 | Capability    | MVP        | Growth        | Mature            |
 | ------------- | ---------- | ------------- | ----------------- |
@@ -407,7 +407,7 @@ Mitigation:
 
 ---
 
-# 1️⃣4️⃣ Why This Architecture?
+# Why This Architecture?
 
 This design:
 
@@ -418,7 +418,7 @@ This design:
 - Aligns business metrics with system design
 - Balances ambition with operational realism
 
-It is intentionally pragmatic — not academically maximalist.
+It is intentionally pragmatic : not academically maximalist.
 
 ---
 
