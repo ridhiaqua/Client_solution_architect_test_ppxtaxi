@@ -8,7 +8,9 @@ This directory contains the frontend prototype assets including Figma design fil
 
 ### 1. Figma Design Files
 
-**Location**: [Add Figma file link here]
+**Location**: 
+[Figma](https://glory-table-66584068.figma.site "@embed")
+
 
 The Figma prototype includes:
 
