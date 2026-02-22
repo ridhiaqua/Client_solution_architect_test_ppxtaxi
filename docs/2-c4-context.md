@@ -5,8 +5,7 @@
 The System Context diagram shows the Priority Pass × Taxi Integration system and how it fits into the world around it. This diagram illustrates the system boundary, the people who use it, and the external systems it interacts with.
 
 ## Diagram
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Context Diagram")
-
+![alt text](https://github.com/ridhiaqua/Clientsolutionarchitecttestppxtaxi/docs/image/C4_context.png "Context Diagram")
 
 
 **Document Version**: 1.0  
