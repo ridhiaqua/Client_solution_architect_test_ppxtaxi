@@ -60,6 +60,3 @@ Scaling strategy:
 - GDPR-compliant data handling
 - PCI scope avoided (payments handled by Taxi Platform)
 
-**Document Version**: 1.0  
-**Last Updated**: February 2026  
-**Owner**: Ridhi
