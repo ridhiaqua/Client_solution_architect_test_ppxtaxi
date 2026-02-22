@@ -9,6 +9,3 @@ The Container diagram zooms into the Priority Pass × Taxi Integration Platform 
 
 
 
-**Document Version**: 1.0  
-**Last Updated**: February 2026  
-**Owner**: Ridhi
