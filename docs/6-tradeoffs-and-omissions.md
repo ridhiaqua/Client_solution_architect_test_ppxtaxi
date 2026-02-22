@@ -373,7 +373,7 @@ Re-evaluate decisions if:
 
 ---
 
-# 7️⃣ Guiding Philosophy
+# Guiding Philosophy
 
 We optimize for:
 
