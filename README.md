@@ -173,33 +173,9 @@ We are deferring complexity — not blocking scale.
 
 ---
 
-# Why Not a Monolith?
-
-This is intentionally a **modular service-oriented backend**, not a tightly coupled monolith.
-
-Reasons:
-
-1. Clear domain boundaries (Journey, Inventory, Integration)
-2. External systems already make this distributed
-3. Independent scaling characteristics
-4. Organizational scalability
-5. Easier evolution to microservices later
-
-For MVP, deployment may still be a single unit.
-
-The important decision is domain separation — not deployable count.
-
----
-
 # Documents
 
-- docs/1-architecture-overview.md
-- docs/2-c4-context.md
-- docs/3-c4-container.md
-- docs/4-c4-components.md
-- docs/5-non-functional-requirements.md
-- docs/6-tradeoffs-and-omissions.md
-- docs/7-sizing.md
+[Go to docs]()
 
 ---
 
