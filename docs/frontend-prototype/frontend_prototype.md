@@ -201,7 +201,3 @@ The Figma prototype includes:
 2. See how both apps integrate seamlessly
 3. Understand key interaction points
 4. Evaluate user experience quality
-
-**Document Version**: 1.0  
-**Last Updated**: February 2026  
-**Owner**: Ridhi
