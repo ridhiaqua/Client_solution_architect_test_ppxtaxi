@@ -8,6 +8,3 @@ The System Context diagram shows the Priority Pass × Taxi Integration system an
 ![alt text](https://github.com/ridhiaqua/Clientsolutionarchitecttestppxtaxi/blob/90fd81b653b4fcdc8db28e5148115e6fb3b94216/docs/image/C4_context.png
  "Context Diagram")
 
-**Document Version**: 1.0  
-**Last Updated**: February 2026  
-**Owner**: Ridhi
