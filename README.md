@@ -2,6 +2,11 @@
 
 A scalable, maintainable system that integrates Priority Pass lounge access with a global taxi app to enhance the airport journey for travelers.
 
+## Figma Design Files
+
+**Location**: 
+[Figma](https://glory-table-66584068.figma.site "@embed")
+
 ## Overview
 
 This repository documents the architecture for the Airport Journey Orchestration MVP.
